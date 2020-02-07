@@ -42,5 +42,5 @@ footer {
   background-color: #FBFFF4;
   width: 100%;
   height: 100%;
-  flex-direction: row;
+  flex-direction: column;
 }
